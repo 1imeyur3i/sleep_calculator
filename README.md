@@ -1,2 +1,1 @@
-# sleep_calculator
-Small practice for potential future project
+Small primitive calculator mostly for personal use
